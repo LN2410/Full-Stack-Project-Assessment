@@ -6,7 +6,7 @@ const VideoForm = ({ onAdd }) => {
 
   return (
     <div className="formContainer">
-      <h4>Add Video</h4>
+      <h3>Add Video</h3>
       <form
         class="form"
         onSubmit={(event) => {

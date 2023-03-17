@@ -3,7 +3,7 @@ const Search = () => {
     <div className="search">
       <label>
         Search
-        <input name="search" type="text"></input>
+        <input className="searchInput" name="search" type="text"></input>
       </label>
     </div>
   );
